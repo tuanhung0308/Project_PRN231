@@ -74,6 +74,10 @@ namespace Project_PRN231_Client.Controllers
         {
             HttpContext.Session.Clear();
             return Redirect("/Login");
+            return Redirect("/Login");
+            return Redirect("/Login");
+
+
         }
     }
 }
