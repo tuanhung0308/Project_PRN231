@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Project_PRN231_API", "Project_PRN231_API\Project_PRN231_API.csproj", "{7A38BA6B-9043-4611-853A-C5D31590697F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_PRN231_Client", "Client\Project_PRN231_Client.csproj", "{30BB2E2C-C182-4FA6-8ECD-E10F4EC8C163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A38BA6B-9043-4611-853A-C5D31590697F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A38BA6B-9043-4611-853A-C5D31590697F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A38BA6B-9043-4611-853A-C5D31590697F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A38BA6B-9043-4611-853A-C5D31590697F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BB2E2C-C182-4FA6-8ECD-E10F4EC8C163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BB2E2C-C182-4FA6-8ECD-E10F4EC8C163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BB2E2C-C182-4FA6-8ECD-E10F4EC8C163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BB2E2C-C182-4FA6-8ECD-E10F4EC8C163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D61B3BF-D8F0-4B91-A17C-C42C64E40034}
+	EndGlobalSection
+EndGlobal
